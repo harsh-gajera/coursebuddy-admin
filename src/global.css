@@ -1,0 +1,18 @@
+/* scrollbar */
+@import 'simplebar-react/dist/simplebar.min.css';
+
+.sticky-header th {
+    position: sticky;
+    top: 0;
+    /* background-color: white; */
+    z-index: 2;
+  }
+  
+.pagination-select-menu div{
+  padding: 8px 10px;
+}
+
+.form-dropdown-field > div {
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
